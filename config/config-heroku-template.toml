@@ -30,8 +30,8 @@
 name="mygateway"
 enable=true
     [[gateway.inout]]
-    account="${IRC_CHANNEL}"
-    channel="#testing"
+    account="irc.myirc"
+    channel="${IRC_CHANNEL}"
 
     [[gateway.inout]]
     account="mattermost.work"
