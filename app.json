@@ -6,7 +6,7 @@
   "success_url": "/",
   "buildpacks": [
     {
-      "url": "https://github.com/devloic/matterbridge-heroku.git#master"
+      "url": "https://github.com/devloic/matterbridge-heroku.git"
     }
   ],
   "env": {
