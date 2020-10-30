@@ -27,7 +27,7 @@ NickFormatter="${MATTERMOST_NICK_FORMATTER}"
 NicksPerRow=${MATTERMOST_NICKS_PER_ROW}
 IgnoreNicks="${MATTERMOST_IGNORE_NICKS}"
 
-[Channel "channel-1"]
+[Channel.channel-1]
 
 IRC="${IRC_CHANNEL}"
 mattermost="${MATTERMOST_CHANNEL}"
