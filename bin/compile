@@ -11,7 +11,7 @@ CACHE_DIR=$2
 ENV_DIR=$3
 
 # Export all envvars (with default blacklist)
-# //debug export_env_dir "$ENV_DIR"
+export_env_dir "$ENV_DIR"
 
 #LATEST_VERSION=$(get_latest_release "42wim/matterbridge")
 #MATTERBRIDGE_VERSION="${MATTERBRIDGE_VERSION:-$LATEST_VERSION}"
