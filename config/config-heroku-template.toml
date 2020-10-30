@@ -16,7 +16,7 @@
       Server="${MATTERMOST_SERVER}"
       Team="${MATTERMOST_TEAM}"
       Login="${MATTERMOST_BOT_LOGIN}"
-      Password="{$MATTERMOST_BOT_PASSWORD}"
+      Password="${MATTERMOST_BOT_PASSWORD}"
       NoTLS=${MATTERMOST_NO_TLS}
       SkipTLSVerify=${MATTERMOST_SKIP_TLS_VERIFY}
       ShowJoinPart=${MATTERMOST_SHOW_JOIN_PART}
