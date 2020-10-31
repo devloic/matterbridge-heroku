@@ -107,6 +107,14 @@
     "MATTERMOST_CHANNEL": {
       "description": "Mattermost channel to bridge",
       "value": ""
+    },
+    "WHATSAPP_CHANNEL": {
+      "description": "Whatsapp channel ex: ",
+      "value": ""
+    },
+   "WHATSAPP_NUMBER": {
+      "description": "Whatsapp number ex: ",
+      "value": ""
     }
   }
 }
