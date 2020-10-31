@@ -115,10 +115,12 @@
     },
     "WHATSAPP_CHANNEL": {
       "description": "Whatsapp channel ex: ",
+      "required": false,
       "value": ""
     },
    "WHATSAPP_NUMBER": {
       "description": "Whatsapp number ex: ",
+     "required": false,
       "value": ""
     }
   }
