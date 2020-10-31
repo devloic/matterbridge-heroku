@@ -65,7 +65,7 @@ enable=true
 
 [[gateway]]
 name="mygateway2"
-enable=true
+enable=${WHATSAPP_ENABLE_GATEWAY}
    [[gateway.inout]]
     account="whatsapp.mywhatsapp"
     channel="${WHATSAPP_CHANNEL}@g.us"
