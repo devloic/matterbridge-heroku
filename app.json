@@ -108,6 +108,11 @@
       "description": "Mattermost channel to bridge",
       "value": ""
     },
+    "WHATSAPP_ENABLE_GATEWAY": {
+      "description": "Enable whatsapp gateway",
+      "required": true,
+      "value": "false"
+    },
     "WHATSAPP_CHANNEL": {
       "description": "Whatsapp channel ex: ",
       "value": ""
