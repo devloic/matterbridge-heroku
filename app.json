@@ -9,6 +9,13 @@
       "url": "https://github.com/devloic/matterbridge-heroku.git"
     }
   ],
+ 
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+     ,
   "env": {
     "MATTERBRIDGE_VERSION": {
        "description": "Version of matterbridge to download and deploy",
